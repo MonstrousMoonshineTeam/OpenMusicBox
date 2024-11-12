@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "openmusicbox"
+version = "0.0.1"
+description = "Simple application to manage music while as a DM while conducting TTRPG session"
+authors = ["Monstrous Moonshine"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.24.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
