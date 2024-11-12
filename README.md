@@ -1,9 +1,3 @@
-# A openmusicmox Flet app
+# OpenMusicBox
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+Relatively small application to help your DM to manage music during your play sessions
